@@ -34,11 +34,9 @@ Manipule su array utilizando varios métodos, como pop(), push(), shift() y unsh
 
     theList[3] = 'hola mundo'; // Reemplaza el elemento de la posicion especificada.
 
-    theList[2] = 'MEDIO';
+    theList.splice(2, 1, 'MEDIO'); // Añade o quita un elemento de un array, (pos, cuantos elementos quiero quitar, que quiero quitar).
 
-    theList.splice(5); // Elimina un elemento segun la posicion dentro del array.
-
-    theList.pop();
+    theList.splice(4, 2); // Elimina dos elementos de la posicion [4] dentro del array.
 
     theList.push('ÜLTIMO'); // Añade un elemento al final de un array.
 
