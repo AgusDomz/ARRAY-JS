@@ -19,6 +19,7 @@ Manipule su array utilizando varios métodos, como pop(), push(), shift() y unsh
 • Agregue FIRST al inicio de la matriz.
 • Asigne hola mundo al valor del cuarto elemento.
 • Asigne MEDIO al tercer valor de índice.
+• Elimina el cuarto y quinto elemento.
 • Agregue ÚLTIMO a la última posición en la matriz.
 • Enviarlo a la consola.
 
